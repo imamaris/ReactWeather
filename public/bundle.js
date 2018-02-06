@@ -112,7 +112,7 @@
 	__webpack_require__(257);
 	$(document).foundation();
 
-	//app css
+	// App css
 	__webpack_require__(261);
 
 	ReactDOM.render(React.createElement(
